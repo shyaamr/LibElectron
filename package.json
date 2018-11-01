@@ -1,0 +1,25 @@
+{
+  "name": "libelectron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shyaamr/LibElectron.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shyaamr/LibElectron/issues"
+  },
+  "homepage": "https://github.com/shyaamr/LibElectron#readme",
+  "devDependencies": {
+    "electron": "^3.0.7"
+  },
+  "dependencies": {
+    "electron-store": "^2.0.0"
+  }
+}
